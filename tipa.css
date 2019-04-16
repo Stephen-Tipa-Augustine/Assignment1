@@ -1,0 +1,83 @@
+#links { width:200px; margin-top:55px; margin-left:50px; border: 2px solid black; position: relative;
+}
+#info { width:1000px; margin-left:300px; border: 2px solid black; position: relative; display: grid;
+}
+#image1 {width:600px; height: 300; margin: 0px; float: left;}
+#mydiv1 {background: bisque; width:auto; height: 300;}
+#image2 {width:600px; height: 300; margin: 0px; float: left;}
+#mydiv2 {background: powderblue; width:auto; height: 300;}
+#image3 {width:700px; height: 300; margin: 0px; float: left;}
+#mydiv3 {background: lightblue; width:auto; height: 300;}
+#image4 {width:700px; height: 300; margin: 0px; float: left;}
+#mydiv4 {background: lightblue; width:auto; height: 300;}
+#image5 {width:700px; height: 300; margin: 0px; float: left;}
+#mydiv5 {background: lightblue; width:auto; height: 300;}
+#image6 {width:700px; height: 300; margin: 0px; float: left;}
+#mydiv6 {background: lightblue; width:auto; height: 300;}
+#textfield1 {width:300px; height:30px;}
+#textfield2 {width:500px; height:100px;}
+header { width:780px; background-color:aliceblue; text-align:center; 
+margin:5px auto 10px auto; padding:2px;
+}
+article { float:left; width:190px; margin:0 0 0 10px; padding:6px;position: relative;
+}
+footer { float: bottom; clear:both; background-color:turquiose; text-align:center; position: relative;
+width:780px; margin:auto;
+}
+p { margin-top:5px; margin-bottom:5px; 
+}
+/* set navigation menu position and style*/
+nav { float:left; width:200px; background-color : aliceblue; margin: 0 7px 5px -30px; position: relative; 
+}position: relative;
+nav ul {width:200px;} 
+/* set general side button styles */
+nav li { margin-bottom: 3px; text-align: center; list-style-type:none; width:195px;position: relative;}
+/* set general anchor styles */
+nav li a { display: block; color: skyblue; font-weight: bold; 
+text-decoration: none } 
+/* specify state styles */
+/* mouseout (default) */
+nav li a { background:powderblue; color: red; border: 5px outset lightblue;}
+/* mouseover */
+nav li a:hover { background: bisque;   border: 5px outset lightgreen;}
+/* onmousedown */
+nav li a:active { background:;  border: 5px inset lightblue }
+} 
+ 
+* {
+font-family: Arial, Verdana, sans-serif;}
+h1, h2, h3 {
+font-family: "Courier New", monospace; color:sienna;}
+i {
+color: blue;}
+b {
+color: black;}
+p b {
+color: blue !important;}
+p b {
+color: black;}
+p {
+font-size: 100%;
+}
+u{
+    color:aliceblue;
+}
+
+body {font-size: 160%;
+background-color:aliceblue;
+}
+#swap1{
+    margin-top:2325px
+}
+#swap2{
+    margin-top:1035px
+}
+#swap3{
+    margin-top:415px
+}
+#swap4{
+    margin-top:2150px
+}
+#swap5{
+    margin-top:2680px
+}
